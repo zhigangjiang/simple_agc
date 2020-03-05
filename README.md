@@ -2,7 +2,7 @@
 a hpp file use c++
 simple adaptive local gamma correction based on mean(or gaussian base Retinex) value adjustment
 
-> 本文主要参考 博客 [OpenCV图像处理专栏十二 |《基于二维伽马函数的光照不均匀图像自适应校正算法》](https://blog.csdn.net/just_sort/article/details/88569129) 中的代码
+> 主要参考 博客 [OpenCV图像处理专栏十二 |《基于二维伽马函数的光照不均匀图像自适应校正算法》](https://blog.csdn.net/just_sort/article/details/88569129) 中的代码
 > 同时也参考了原论文: 刘志成,王殿伟,刘颖,刘学杰.基于二维伽马函数的光照不均匀图像自适应校正算法[J].北京理工大学学报,2016,36(02):191-196+214.
 
 做了以下定制化内容：
