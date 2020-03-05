@@ -16,3 +16,5 @@ simple adaptive local gamma correction based on mean(or gaussian base Retinex) v
  - 使用并行多线程，速度提升一倍
  - 更多基于opencv操作，在i5 mac 上8k图平均1.5s处理完
  - 对过暗和过亮部分做了优化
+
+[实验对比](http://linkstack.net/article/68) 查看
