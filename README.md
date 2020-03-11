@@ -17,4 +17,6 @@ simple adaptive local gamma correction based on mean(or gaussian base Retinex) v
  - 更多基于opencv操作，在i5 mac 上8k图平均1.5s处理完
  - 对过暗和过亮部分做了优化
 
+内存占用过多，可将数据类型改为8位uchar
+
 [实验对比](http://linkstack.net/article/68) 查看
